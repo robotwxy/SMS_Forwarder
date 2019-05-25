@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message pls</string>
+    <string name="button_send">Send La</string>
+    <string name="button_request">Request</string>
+    <string name="text_response">waiting for response</string>
+</resources>
